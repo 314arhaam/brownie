@@ -1,8 +1,8 @@
 # brownie
-2D Brownian Motion in Python
+2D single particle Brownian Motion in Python
 
 ## Introduction
-Brownian motion is the random motion of molecules in a fluid medium as a result of their constant collosion. More about it could be found [here](https://en.wikipedia.org/wiki/Brownian_motion).
+Brownian motion is the random motion of molecules in a fluid medium as a result of their constant collosion. More about it could be found [here](https://en.wikipedia.org/wiki/Brownian_motion). The purpose of this code is to generate artistic images using Brownian motion.
 
 ## How to run?
 1. Download [**brownian.py**](https://github.com/314arhaam/brownie/blob/main/brownian.py) 
